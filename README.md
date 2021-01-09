@@ -3,7 +3,7 @@
 ## **🛈 ATTENTION: Ghidra 9.2 is now [generally availlable](https://ghidra-sre.org/releaseNotes_9.2.html)! However, I will continue to provide binaries of the latest changes to both Ghidra core and extensions**  
 
 
-A distribution of Ghidra 9.2 with extensions and patches included to simplify reversing code patterns commonly found in games.
+A distribution of Ghidra 9.3 with extensions and patches included to simplify reversing code patterns commonly found in games.
 
 ## **⚠ WARNING: Unstable patches and features included.**  
 
@@ -44,13 +44,13 @@ If you do run into this please open an issue on the issue tracker.
 
 ## Where do I get it?
 
-Builds can be downloaded straight from GitHub action runs [here](https://github.com/garyttierney/ghidra-batteries-included/actions/).
-Note: you'll need to be authenticated with a GitHub account to download archives listed here.
+Builds of the latest version in this repository can be downloaded at the following locations:
 
-Alternatively, builds of the latest version in this repository can be downloaded at the following locations:
+- [Windows](https://github.com/garyttierney/ghidra-batteries-included/releases/download/latest/ghidra-distribution-windows-latest.zip)
+- [Linux](https://github.com/garyttierney/ghidra-batteries-included/releases/download/latest/ghidra-distribution-ubuntu-latest.zip)
 
-- [Windows](https://ghidradistribution.z35.web.core.windows.net/builds/ghidra-windows-latest.zip)
-- [Linux](https://ghidradistribution.z35.web.core.windows.net/builds/ghidra-ubuntu-latest.zip)
+Alternatively, builds can be downloaded straight from GitHub action runs [here](https://github.com/garyttierney/ghidra-batteries-included/actions/).
+Note: you'll need to be authenticated with a GitHub account to download these archives.
 
 ## Future additions and contributions
 
